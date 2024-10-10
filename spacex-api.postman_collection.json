@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "728db026-6f61-426a-b1c2-9d4f51b5da23",
+		"name": "spacex",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "25093288"
+	},
+	"item": [
+		{
+			"name": "GET Rockets",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "GET rocket id:https://web.postman.co/workspace/My-Workspace~dde7229c-06bc-4025-8069-efe0c0167efd/request/25093288-ab1e2451-ad23-42f4-b6cb-55f4512c57a3?action=share&source=copy-link&creator=25093288",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
